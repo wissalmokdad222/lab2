@@ -138,14 +138,14 @@ Connexion ADB locale (127.0.0.1). Environnement isolé.
 - Tests limités au réseau isolé et AVD
 
 **Reset effectué :** Oui – Snapshot  
-![img19](https://github.com/user-attachments/assets/e8163a71-2aa4-4722-991f-4f64cb118f63)
+![img19](https://github.com/user-attachments/assets/f96b2cef-3822-4ea2-8e53-803b9853f3c2)
 
 ---
 
 ## 12. Remise à zéro AVD
 
 - AVD réinitialisé après tests  
-  ![img20](https://github.com/user-attachments/assets/20)
+  ![img20](https://github.com/user-attachments/assets/f42d50cc-8209-4750-ad70-c91dc5520575)
 
 ---
 
