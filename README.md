@@ -8,6 +8,7 @@ Tests réalisés directement sur le système Android de l’AVD, version 36.1 av
 **Support (AVD / device labo) :**  
 Émulateur Android (AVD) via Android Studio, modèle Pixel.  
 Accès via ADB shell (`emulator-5554`).
+![](https://github.com/user-attachments/assets/79a60a72-98ac-4b7a-a822-de044762caff)
 
 **Objectif :**  
 Comprendre le processus de rooting sur un AVD et analyser ses impacts sur la sécurité du système.
