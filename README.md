@@ -33,8 +33,8 @@ Connexion ADB locale (127.0.0.1). Environnement isolé.
 ## 3. Scénarios testés
 
 1. **Ouvrir l’écran d’accueil** – vérifier l’affichage principal  
-   ![img10-12](https://github.com/user-attachments/assets/79d14beb-4612-4c52-854a-5732f3e566b3)  
-   ![img10-12](https://github.com/user-attachments/assets/309307f3-9d89-47a9-a949-1e4723f4ee92)
+   ![img10](https://github.com/user-attachments/assets/79d14beb-4612-4c52-854a-5732f3e566b3)  
+   ![img11](https://github.com/user-attachments/assets/309307f3-9d89-47a9-a949-1e4723f4ee92)
 
 2. **Rechercher un item** – observer les résultats  
    ![img13](https://github.com/user-attachments/assets/f0cee358-8b66-4b1f-819d-106b3d9d4d10)
@@ -138,11 +138,18 @@ Connexion ADB locale (127.0.0.1). Environnement isolé.
 - Tests limités au réseau isolé et AVD
 
 **Reset effectué :** Oui – Snapshot  
-![snapshot](https://github.com/user-attachments/assets/e8163a71-2aa4-4722-991f-4f64cb118f63)
+![img19](https://github.com/user-attachments/assets/e8163a71-2aa4-4722-991f-4f64cb118f63)
 
 ---
 
-## 12. Checklist finale
+## 12. Remise à zéro AVD
+
+- AVD réinitialisé après tests  
+  ![img20](https://github.com/user-attachments/assets/20)
+
+---
+
+## 13. Checklist finale
 
 **Début :**  
 - [x] Périmètre écrit  
